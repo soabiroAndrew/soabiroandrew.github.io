@@ -1,7 +1,7 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Soabiro
+email: andrew@soabiro.com
+description: "We are a dedicated group of experienced software professionals that seek to make software teams more effective through automation and advice on system architecture. We strive to increase our clients bottom line, whilst battle hardening your IT infastructure"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -11,10 +11,10 @@ color:
   
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Soabiro
+  location: Charlottetown, Prince Edward Island
   social: Around the Web
-  credits: Credits
+  credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -31,11 +31,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 117 Southdale Ave
+  - line: Charlottetown, PE, C1A6Z6
   
 # Credits content
-credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: ''
 
 # Build settings
 markdown: kramdown
